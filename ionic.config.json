@@ -1,0 +1,7 @@
+{
+  "name": "spotify-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
