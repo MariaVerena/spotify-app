@@ -4,7 +4,6 @@ import { SpotifyApi } from '@spotify/web-api-ts-sdk';
 
 export async function spotifySearch() {
     const spotify = await connectWithSpotify()
-    spotify.search()
     const items = await spotify.search("The Beatles", ["artist"]);
     console.table(items.artists.items.map((item) => ({
         name: item.name,
