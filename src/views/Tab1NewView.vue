@@ -12,7 +12,7 @@ Tab 2
   </div>
 </div>
 
-<h2> Here are your most heard: </h2>
+<h2> Here are your most heard stuff: </h2>
 <p></p>
 <p></p>
 <h4>songs</h4>
